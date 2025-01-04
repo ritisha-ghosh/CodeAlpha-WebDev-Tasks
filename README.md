@@ -1,5 +1,5 @@
 # CodeAlpha-Tasks
-<h2>Watch the Websites Demo</h2>
+<h2>Demo of the Websites</h2>
 1) Personal Portfolio Using React JS :- 
    https://rg-prtflo.netlify.app<br>
 2) Expense Tracker App using HTML CSS JS :- 
